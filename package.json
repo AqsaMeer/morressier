@@ -1,0 +1,18 @@
+{
+  "name": "mobilescreensize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Aqsa Manzoor",
+  "license": "ISC",
+  "dependencies": {
+    "cypress-waitfor": "^1.1.0"
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.0",
+    "cypress": "^8.3.1"
+  }
+}
